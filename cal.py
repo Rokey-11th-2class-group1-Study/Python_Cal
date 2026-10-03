@@ -10,11 +10,11 @@ def subtract(a, b):
 
 # 곱셈 식
 def multiply(a, b):
-    pass
+    return a*b
 
 # 나눗셈 식
 def divide(a, b):
-    pass
+    return a/b
 
 # 제곱 식
 def square(a):
