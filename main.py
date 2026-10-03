@@ -1,0 +1,7 @@
+from cal import add, subtract, multiply, divide, square
+
+print(add(10, 5))
+print(subtract(10, 5))
+print(multiply(10, 5))
+print(divide(10, 5))
+print(square(10))
