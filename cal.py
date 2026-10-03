@@ -18,4 +18,4 @@ def divide(a, b):
 
 # 제곱 식
 def square(a):
-    pass 
+    return a ** 2
