@@ -2,7 +2,7 @@
 
 # 덧셈 식
 def add(a, b):
-    pass
+    return a + b
 
 # 뺄셈 식
 def subtract(a, b):
